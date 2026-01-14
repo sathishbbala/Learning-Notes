@@ -10,8 +10,9 @@ The goal is clarity and long-term retention — not exhaustive coverage.
 ## Topics
 
 - Python & data structures
-- Databases & data architecture
-- Cloud fundamentals
+- Databases - SQL, NoSQL, Distributed databases
+- data architecture
+- Cloud fundamentals [AWS]
 - Vector databases & semantic search
 - AI / ML concepts (from an architect’s perspective)
 
