@@ -1,9 +1,5 @@
 # Learning-Notes
-This repository contains structured technical notes that I use as
-refreshers while learning and revisiting core concepts across data,
-cloud, and AI-related technologies.
-
-The goal is clarity and long-term retention — not exhaustive coverage.
+This repository contains structured technical notes that I use as refreshers while learning and revisiting core concepts across data, cloud, and AI-related technologies.
 
 ---
 
@@ -16,5 +12,3 @@ The goal is clarity and long-term retention — not exhaustive coverage.
 - Vector databases & semantic search
 - AI / ML concepts (from an architect’s perspective)
 - Projects
-
-Notes are concise and written to reinforce understanding.
