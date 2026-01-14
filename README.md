@@ -11,9 +11,10 @@ The goal is clarity and long-term retention — not exhaustive coverage.
 
 - Python & data structures
 - Databases - SQL, NoSQL, Distributed databases
-- data architecture
-- Cloud fundamentals [AWS]
+- Data architecture
+- Cloud [AWS]
 - Vector databases & semantic search
 - AI / ML concepts (from an architect’s perspective)
+- Projects
 
 Notes are concise and written to reinforce understanding.
