@@ -3,7 +3,7 @@ A set in Python:
 2. Mutable ( you can add/remove)
 3. Unique items only (Duplicates are automatically removed)
 4. Super fast for membership checks (in operator)
-
+``` python
 # How to create a set
 
 # Adding items
@@ -22,3 +22,4 @@ A set in Python:
 # Use Set to store only immutable and hashable items
 # int, float, string, tuple are allowed in a set
 # List, dict, set are not allowed
+```
