@@ -80,10 +80,12 @@ for item in t:
 # How does tuple slicing work in Python?
 # Slicing allows you to extract a portion of a tuple by specifying a start index, an end index, and an optional step.
 # The syntax for slicing is: tuple[start:end:step]
-```
+
 
 t = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 print(t[2:5])    # (2, 3, 4)
 print(t[:4])     # (0, 1, 2, 3)
 print(t[5:])     # (5, 6, 7, 8, 9)
 print(t[::2])   # (0, 2, 4, 6, 8)
+
+```
