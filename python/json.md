@@ -1,5 +1,6 @@
 
-json.loads converts a JSON string into a Python object (usually a dictionary).
+``` python
+#json.loads converts a JSON string into a Python object (usually a dictionary).
 
 # What does json.loads return?
 # Json Type         Python Type
@@ -10,7 +11,6 @@ json.loads converts a JSON string into a Python object (usually a dictionary).
 # True/False       True/False
 # Null             None
 
-``` python
 json_str = '{"name": "John", "age": 30, "city": "New York"}' # this is a python string 
 data = json.loads(json_str) # data is a python dictionary 
 
@@ -61,8 +61,8 @@ nested_json = {
     }
 }
 print(nested_json["employee"]["details"]["department"])  # Output: HR
-```
 
 # Loop through JSON data
 for key in data:
     print(f"{key}: {data[key]}")
+```
